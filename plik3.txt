@@ -7,3 +7,4 @@ easierApp
 zmiana
 b
 m
+c
