@@ -6,3 +6,4 @@ Zmiana05
 zmiana7
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
+hgh
