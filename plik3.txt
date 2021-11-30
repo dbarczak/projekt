@@ -6,4 +6,3 @@ Uproszczenie interfejsu graficznego
 easierApp
 zmiana
 b
-m
